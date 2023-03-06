@@ -1,0 +1,157 @@
+Cel misji: Zainstalowane środowisko Ubuntu na maszynie wirtualnej VirtualBox 
+
+
+Opis misji: 
+Zdobądź wersję instalacyjną Ubuntu, kompatybilny z VirtualBoxem. 
+Stwórz w VB dysk wirtualny, sieć, zainstaluj Ubuntu i zaloguj się do konsoli. 
+
+
+Cele pośrednie*:
+- Uruchomiłaś wirtualizację w BIOS swojego komputera. 
+- VB używa wsparcia sprzętowego.
+
+
+
+🛡️⚔️𝐓𝐰𝐨𝐣 𝐞𝐤𝐰𝐢𝐩𝐮𝐧𝐞𝐤 𝐧𝐚 𝐭𝐞 𝐩𝐫𝐳𝐲𝐠𝐨𝐝𝐞:⚔️🛡️
+
+1. 📖 Zaklęcia porządkujące przepływ misji:
+Obraz instalacyjny Ubuntu, zajmuje całkiem sporo miejsca. Uwzględnij czas potrzebny na jego sciągnięcie.
+W trakcie instalacji systemu, będziesz miała czas, żeby spokojnie zrobić coś innego. Niektóre etapy nie angażują uwagi. 
+
+
+2. 💰 Stronki sypiące złotem:
+https://www.virtualbox.org/
+https://ubuntu.com/download/server
+https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview
+
+Próbujesz uruchomić i nie działa? Zobacz tutaj: https://techsupportwhale.com/not-in-a-hypervisor-partition/
+
+🍀 Wskazówka🍀  przejżyj pobieżnie cały trzeci artykuł! 
+Ubuntu
+Get Ubuntu Server | Download | Ubuntu
+Get Ubuntu Server one of three ways; by using Multipass on your desktop, using MAAS to provision machines in your data centre or installing it directly on a server.
+Tech Support Whale
+Priyabrata M
+[Fix] Not in a hypervisor partition (HVP=0) (VERR_NEM_NOT_AVAILABLE...
+Fix for "Not in a hypervisor partition (HVP=0) (VERR_NEM_NOT_AVAILABLE)" or "VT-x is disabled in the BIOS for all CPU modes (VERR_VMX_MSR_ALL_VMX_DISABLED)"
+[Fix] Not in a hypervisor partition (HVP=0) (VERR_NEM_NOT_AVAILABLE...
+Ubuntu
+How to run an Ubuntu Desktop virtual machine using VirtualBox 7 | U...
+Ubuntu is an open source software operating system that runs from the desktop, to the cloud, to all your internet connected things.
+How to run an Ubuntu Desktop virtual machine using VirtualBox 7 | U...
+Marlena — 27.09.2022 16:13
+Misja #2: "Poznajemy nowe zwierzęta"
+
+Co Cię czeka w tej misji: 
+Stawiając coraz pewniej kroki po lesie Linuxa, spotkasz nowe zwierzaki, które będą pomagały Ci w Twojej przygodzie
+
+Cel misji: Zbudowanie skryptu który cyklicznie będzie aktualizował stan repozytorium na GitHub.
+
+
+Opis misji: 
+Załóż konto na GitHub. Stwórz repozytorium. Używając konsolowych poleceń git zaktualizuj lokalne i zdalne repozytorium. 
+Stwórz plik readme, w którym określisz jakimi poleceniami w konsoli:
+    zmienisz katalog w którym pracujesz
+    zmienisz uprawnienia pliku na wykonywanie
+    uruchomisz skrypt albo aplikacje
+    uruchomisz skrypt albo aplikacje o konkretnej godzinie
+    sprawdzisz rezultat wykonania skryptu albo aplikacji
+
+oraz skrypt bash, który:
+    przejdzie do katalogu repozytorium i wykona co 15 minut push do zdalnego repozytorium
+
+🛡️⚔️𝐓𝐰𝐨𝐣 𝐞𝐤𝐰𝐢𝐩𝐮𝐧𝐞𝐤 𝐧𝐚 𝐭𝐞 𝐩𝐫𝐳𝐲𝐠𝐨𝐝𝐞:⚔️🛡️
+
+1. 📖 Zaklęcia porządkujące przepływ misji:
+
+
+2. 💰 Stronki sypiące złotem:
+Praktyczne:
+https://github.com/
+https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+https://devhints.io/bash
+https://oit.ua.edu/wp-content/uploads/2020/12/Linux_bash_cheat_sheet-1.pdf
+
+Teoretyczne
+https://kot-zrodlowy.pl/programowanie/2017/10/11/korzystanie-z-git-i-githuba.html
+https://www.flynerd.pl/2018/06/jak-napisac-dobre-readme-projektu-na-githubie.html
+http://blog.pjuskiewicz.com/2018/02/24/ignorowanie-plikow-git/
+https://blog.piotrnalepa.pl/2017/03/02/ktory-rodzaj-licencji-wybrac-dla-swojego-nastepnego-projektu/
+
+🍀 Wskazówka🍀
+cron - może być prostym rozwiązaniem na problem cykliczności. Jak tego używać? 
+GitHub
+GitHub: Let’s build from here
+GitHub is where over 94 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and feat...
+GitHub: Let’s build from here
+Atlassian
+Git cheat sheet | Atlassian Git Tutorial
+Git cheat sheet that serves as a quick reference for basic Git commands to help you learn Git. Git branches, remote repositories, undoing changes, and more
+Devhints.io cheatsheets
+Bash scripting cheatsheet
+Variables · Functions · Interpolation · Brace expansions · Loops · Conditional execution · Command substitution · One-page guide to Bash scripting
+Obraz
+Korzystanie z Gita i GitHuba - poradnik na start - Kot Źródłow...
+To jest blog pisany przez pierwszego kota w IT. Miau!
+Misja #3: "Obserwacja przyrody"
+
+Co Cię czeka w tej misji: 
+Zwiedzisz drzewo systemu plików Linuxa, szczególnie dokładnie obserwujc "/var/log".
+
+Cel misji: Opanowanie narzędzi do analizy i przeglądu logów i swobodne poruszanie się po strukturze katalogów linuxa.
+
+
+Opis misji: 
+Używając dostępnych zasobów, ustal co znajduje się w takich katalogach jak:
+/var/
+/var/log
+/etc
+/usr
+
+a następnie określ co znajduje się : 
+/var/log/syslog
+/var/log/auth.log
+/var/log/kern.log
+/var/log/boot.log
+/var/log/dmesg
+/var/log/faillog
+
+i gdzie jest to skonfigurowane? 
+
+🛡️⚔️𝐓𝐰𝐨𝐣 𝐞𝐤𝐰𝐢𝐩𝐮𝐧𝐞𝐤 𝐧𝐚 𝐭𝐞 𝐩𝐫𝐳𝐲𝐠𝐨𝐝𝐞:⚔️🛡️
+
+1. 📖 Zaklęcia porządkujące przepływ misji:
+
+
+2. 💰 Stronki sypiące złotem:
+https://www.baeldung.com/linux/more-less-most-commands
+https://sheet.shiar.nl/less
+https://devhints.io/vim
+
+🍀 Wskazówka🍀
+man to bardzo przydatne polecenie
+Baeldung on Linux
+Differences Between more, less, and most in Linux | Baeldung on Linux
+Linux provides several tools for scrolling through the contents of text files. We compare their capabilities and demonstrate the most common ways to use them.
+Differences Between more, less, and most in Linux | Baeldung on Linux
+less cheat sheet
+Default bindings of the less pager. Clearly shows how much it's more than more.
+Devhints.io cheatsheets
+Vim cheatsheet
+One-page guide to Vim: usage, examples, and more. Vim is a very efficient text editor. This reference was made for Vim 8.0. For shortcut notation, see :help key-notation.
+Obraz
+Marlena — 06.11.2022 21:56
+Misja #4: Ćwiczenia pomocnicze do przejścia na kolejny level:
+
+1. Zademonstruj 2 sposoby na ustawienie adresu IP w Ubuntu (statyczne)
+
+2. Zademonstruj 2 sposoby na ustawienie adresu IP z serwera DHCP (pobranie, dynamiczny)
+
+3. Jakie min. 2 komendy umożliwiają nam oglądanie plików logów w trybie “output appended data as the file grow” 
+4. W jakim pakiecie znajduję się aplikacja “ifconfig”? Jaką ja zainstalować?
+
+5. Do czego służy komenda top? ps? whereis? who? which? pwd? man?
+
+6. Zademonstruj 2 sposoby dodawania użytkownika do systemu.
+
+7. Jaki jest twój ulubiony edytor tekstowy w konsoli linuxa?

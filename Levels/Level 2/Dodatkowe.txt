@@ -1,0 +1,49 @@
+#1 CEL MISJI: Zarób 100$
+
+Zaloguj się na wszystkich platformach i je poznaj. Niektóre platformy zaproszą Cię na rozmowę rekrutacyjną. Odbądź minimum 2 takie rozmowy w języku angielskim.
+
+Łap doświadczenie i udowodnij sobie, że to może być dla Ciebie też źródło dochodów. 
+
+Cele pośrednie: 
+1. Zarejestrowane konta na każdej platformie 
+2. Opis  jak wygląda cykl pracy na każdej platformie stworzony w Confluence:
+
+-jak napisać zgłoszenie błędu (szablon) -w jaki sposób się rozliczasz -jak są dobierane zlecenia do zleceniobiorców 
+ Im szybciej przez to przejdziesz tym dla Ciebie lepiej, bo będziesz mogła mówić o doświadczeniu w tej branży 🙂 
+🛡️⚔️𝐓𝐰𝐨𝐣 𝐞𝐤𝐰𝐢𝐩𝐮𝐧𝐞𝐤 𝐧𝐚 𝐭𝐞 𝐩𝐫𝐳𝐲𝐠𝐨𝐝𝐞:⚔️🛡️
+
+1. 📖 Zaklęcia porządkujące przepływ misji  
+To jest większy projekt - rozbij go na zadania i zaplanuj kiedy co chcesz zrobić.
+
+ np.  Dam sobie 1h-4h na rozpoznanie każdej strony i : 
+-założę konto 
+-dowiem się jak wygląda cykl pracy na każdej platformie 
+-w jaki sposób się rozliczam? 
+-jak są dobierane zlecenia do zleceniobiorców?
+
+
+ 2. 💰 Stronki sypiące złotem <wymagają dłuższego czasu weryfikacji>   https://testerwork.com/
+
+https://www.utest.com/ 
+https://platform.testlio.com/login#/ 
+TesterWork
+Homepage - TesterWork
+uTest - The Professional Network for Testers
+Elevate your testing skills – READ articles, RATE tools, LEARN new skills, FIND paid projects and CHAT about tech, career & trends with your peers.
+Marlena — 05.12.2022 15:33
+#2 Cel Misji: Poznaj znaczenie słów i zrób własne notatki - przydadzą się 🙂
+-system operacyjny
+ -NAT
+-Maska sieci
+-Masquqrading
+- VM snapshot
+- port forwarding
+-Tunel IP
+-Scrum 
+-Piramida Testów 
+Marlena — 05.12.2022 23:05
+Polecam też przejrzeć jakie są możliwości i co ze sobą się łączy https://roadmap.sh/qa?fbclid=IwAR2H8jkKK9YxNbtlN66qaR5KyoiFZDtVb8P-0c4CDvEJeaHjpcGCCz5urWI 
+roadmap.sh
+QA Roadmap: Learn to become a modern QA engineer
+Community driven, articles, resources, guides, interview questions, quizzes for modern QA development. Learn to become a modern QA engineer by following the steps, skills, resources and guides listed in this roadmap.
+QA Roadmap: Learn to become a modern QA engineer

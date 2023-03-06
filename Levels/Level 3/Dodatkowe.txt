@@ -1,0 +1,66 @@
+Dzień dobry FrontStepiaki! @everyone 
+Dobrze Was tutaj już widzieć🚀💪
+
+Zaczynamy jazdę bez trzymanki czyli praktyka, praktyka i jeszcze raz praktyka 👻
+
+🎁Paczka dla Was na najbliższy tydzień:
+
+Komendy z którymi non stop będziecie się zderzali na wirtualnych maszynach. Zapoznajcie się, zróbcie sobie własne notatki tak, żebyście mieli łatwy i szybki dostęp do tych wszystkich komend w nocy o północy 🙂 Jak przyłożycie się solidnie do tych podstaw reszta pójdzie z górki 🦸‍♀️
+
+https://opensource.com/article/22/5/essential-linux-commands
+10 najczęściej używanych komend w linuxie - podaj jedną i opisz co ona robi?
+
+https://opensource.com/article/22/8/linux-tar-command
+Jak robić archiwa?
+
+1. https://www.commandlinefu.com/commands/view/4043/split-a-tarball-into-multiple-parts
+Jak podzielić archiwa na milion części ?
+
+2. https://www.simplehelp.net/2009/05/25/how-to-create-a-multi-part-tar-file-with-linux/
+Powtórka TAR podstawowe komendy musicie znać. Wymień jedną komendę i opisz co ona robi?
+
+3. https://opensource.com/article/22/7/check-disk-usage-linux
+Zarządzanie pamięcią a po co i jak?
+
+4. https://opensource.com/article/22/3/linux-top-command
+Co najbardziej obciąża Twój komputer?
+
+5. https://opensource.com/article/21/11/cron-linux
+Jak korzystać z Crona? + ściągawka na polecenia podstawowe (warto pobrać)
+
+6. https://opensource.com/article/21/10/linux-wget-command
+Komenda wget - a po co to komu?
+12 essential Linux commands for beginners
+I recommend these commands to anyone who is getting started with Linux.
+Obraz
+4 ways to use the Linux tar command
+How do you use the tar command? That's what I recently asked our community of writers. Here are some of their answers.
+Obraz
+Split a tarball into multiple parts Using split, tar
+tar cf - |split -bM - .tar. - (Split a tarball into multiple parts Create a tar file in multiple parts if it's to large for a single disk, your filesystem, etc.
+
+Rejoin later with `cat .tar.*|tar xf -`). The best command line collection on the internet, submit yours and save your favorites.
+Simple Help
+Sukrit Dhandhania
+How to Create a Multi Part Tar File with Linux - Simple Help
+This guide will explain how to split a large file into multi-part .tar files, and how to put them back together again.
+How to Create a Multi Part Tar File with Linux - Simple Help
+Check disk usage in Linux
+The du and ncdu commands provide two different views of the same information, making it easy to keep track of what's stored on your computer.
+Obraz
+Marlena — 11.10.2022 19:21
+Siemaneczko FrontStepiaki! @everyone 
+Mam dla Was narzędzie, które oszczędzi Wam masę godzin!
+Nieraz z tego w życiu skorzystacie…nawet jak teraz nie wiecie do czego😁
+
+To najprościej mówiąc kalkulator, zaraz jak będziecie konfigurowali sieci to poczujecie jego moc 
+
+https://www.site24x7.com/tools/ipv4-subnetcalculator.html 
+IP Subnet Calculator for IPv4 | Online Subnet Mask Calculator - Sit...
+Subnet calculator performs network calculations using IP address, mask bits, determines the resulting broadcast address, subnet, and more. Try Site24x7's Online IPv4 subnetting calculator for free.
+Marlena — 19.10.2022 09:31
+Ls i pwd to komendy 🙂
+https://opensource.com/article/22/5/essential-linux-commands 
+12 essential Linux commands for beginners
+I recommend these commands to anyone who is getting started with Linux.
+Obraz

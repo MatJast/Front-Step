@@ -1,0 +1,38 @@
+Cel misji: 𝐙𝐚𝐫𝐨𝐛 3$ 
+
+
+
+Opis misji: 
+Zaloguj się na platforme i ja poznaj.
+Łap doświadczenie i udowodnij sobie, że to może być dla Ciebie też źródło dochodów. 
+
+Cele pośrednie: 
+1. Zarejestrowane konto na platformie
+(START-> BECOME A TESTER) 
+2.Przejdź przez kroki wdrażania
+
+3. Zrób własne notatki z KAŻDEGO działu w ,,Tester Academy”
+-jak napisać zgłoszenie błędu (szablony) 
+-w jaki sposób się rozliczasz 
+-jak są dobierane zlecenia do zleceniobiorców 
+-stwórz konto, które będzie w pełni gotowe do zarabiania
+
+ Im szybciej przez to przejdziesz tym dla Ciebie lepiej, bo będziesz mogła mówić o doświadczeniu w tej branży 🙂 
+Marlena — 06.09.2022 13:54
+🛡️⚔️𝐓𝐰𝐨𝐣 𝐞𝐤𝐰𝐢𝐩𝐮𝐧𝐞𝐤 𝐧𝐚 𝐭𝐞 𝐩𝐫𝐳𝐲𝐠𝐨𝐝𝐞:⚔️🛡️
+
+1. 📖 Zaklęcia porządkujące przepływ misji  
+To jest większy projekt - rozbij go na zadania i zaplanuj kiedy co chcesz zrobić.
+Np. 
+,,Przeczytam i zrobie notatki z Akademii z całego działu ,,Getting Started” do środy do godziny 21:00"
+,,Przeczytam  do czwartku do godziny 18:00 na Akademii cały dział,,Payment/Payout” i stworzę w pełni aktywne konto (mogę zacząć dostawać powiadomienie o testach i zacząć zarabiać)"
+  
+https://join.test.io/BlXWaoHGwlsv - 🍀 Wskazówka🍀 to jest moja ulubiona, rejestrujesz się i od razu masz dostęp. Wiedza z tej strony to jest MUST HAVE 
+Marlena — 21.11.2022 10:15
+🗡️Podstawy testowania 🗡️ - zapoznaj się i zrób notatki, bo to miecz, który  przyda się jeśli chcesz wygrać starcie ze Strażnikiem leveli 🙂 
+https://myservername.com/black-box-testing-an-depth-tutorial-with-examples
+
+https://www.cobalt.io/blog/black-gray-and-white-box-pentests 
+Decoding the Differences: Black, Gray, and White-Box Pentests | Cobalt
+Explore the differences between black-box, gray-box, and white-box pentesting with an overview and the benefits offered by the different security methods.
+Decoding the Differences: Black, Gray, and White-Box Pentests | Cobalt

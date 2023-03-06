@@ -1,0 +1,67 @@
+1. ZADANIE Wiedza o Agile i Scrumie
+
+https://youtu.be/VFm3WfZm8iI
+https://youtu.be/q68BF67VpcE
+https://youtu.be/uMPwRKDsxJ8
+https://youtu.be/_BG5TDosnz4
+https://youtu.be/qM46lO-Rqas
+https://youtu.be/CRuJbbHo4ho
+https://youtu.be/SH-e3V3wgfw
+https://youtu.be/XM-To0BQuu8
+https://youtu.be/EAP8bwUUcVk
+
+Obejrzyj po kolei - Mariusz w prostu sposób opowiada o metodyce Agile i frameworku SCRUM
+
+Po tym złapiesz dużo informacji i wiedzy. Żeby ją usystematyzować:
+
+ZADANIE 2 obejrzyj playlistę tutaj masz 18 krótkich animowanych filmików :
+https://youtube.com/playlist?list=PLBUu5aGDLKnbeEx8U-5r436bw6p9wv1rS
+
+ZADANIE 3 Dalej słownictwo tu masz 19 istotnych zwrotów 
+https://www.youtube.com/watch?v=wiqIwNnvusE&list=PL785iOrb0sYjlsAQqdCBmL4RI4ZtfhXHG 
+Marlena — 25.11.2022 23:40
+ZADANIE 4 podstawy testowania - złap wiedzę teoretyczną podstaw testowania manualnego.
+
+Tutaj filmiki, prosto szybko i na temat to 1 z 15 (polecam wszytskie 15)
+
+cel: poznaj rodzaje testów i po co się je wykonuje
+https://www.youtube.com/watch?v=IBwa2qqVJ9g 
+YouTube
+Technika Programowania
+Typy testów - Kurs testowanie oprogramowania (1/15)
+Obraz
+Marlena — 26.11.2022 08:45
+ZADANIE 5 Potrafisz rozbijać cele na zadania w Jirze🚀
+
+Opis SCRUMA
+Odpowiedz na 3 pytania do każdego spotkanie: 
+Po co jest to wydarzenie - jaki jest jego cel?
+Co się dzieje na takim spotkaniu?
+Co Ty robisz na takim spotkaniu?
+
+5.1. Sprint Planning Meeting 5.2. Sprint Backlog 5.3. Sprint retrospective 5.4. Daily StendUP Meeting 
+
+
+ZADANIE 6 Odpowiedz na 2 pytania do każdego członka zespołu :
+1️⃣Jakie są obowiązki takiej osoby w zespole? 
+2️⃣ Jak wygląda Twój kontakt z tą osobą?
+-Deweloper
+-Product Owner 
+-Scrum Master
+
+
+  Kryteria akceptacji:
+1. zaplanuj tę pracę w swoim backlogu na Jirze <zadanie+czas na kiedy> 
+2. odpowiedzi stwórz na Confluence 
+3. skorzystaj z szablonu na Confluence  ,,cele, sygnały, miary” - możesz go zmodyfikować jeśli potrzebujesz    
+🍀pomoc: https://scrumguides.org/scrum-guide.html#scrum-team 
+Marlena — 21.02.2023 13:56
+ZADANIE 7 Trello
+
+Zaloguj się do trello https://trello.com/signuphttps://trello.com/signupihttps://trello.com/signupi wykonuj dokładnie te zadania, które widzisz na filmikach
+
+https://www.youtube.com/watch?v=e-qb7WZuIvk
+
+https://www.youtube.com/watch?v=3kLk9J4hTjE
+
+https://www.youtube.com/watch?v=Xzvve9fp20M 

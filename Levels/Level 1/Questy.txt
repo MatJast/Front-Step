@@ -1,0 +1,40 @@
+Opis misji: 
+-Załóż konta w tych 3 narzędziach (slack,confluence, jira)
+-poznaj wszystkie funkcjonalności każdego z nich (klikaj i sprawdzaj sam lub wesprzyj się YouTubem)
+-wykonaj dodatkowo 3 zadania 
+
+
+ZADANIE 1
+Ściągnij proszę Slacka, żebyś miała go w formie aplikacji na telefonie i komputerze 
+(Slack służy do komunikacji to coś jak Messenger dla osób pracujących w IT)
+
+https://slack.com/
+https://youtu.be/RRxQQxiM7AA
+
+1.1 Załóż czat #projekt i zrób tak żeby czat #projekt był czatem prywatnym
+1.2 Napisz ,,FrontStep” na dowolnym kanale 🙂
+1.3W komentarzu do ,,FrontStep”  dodaj dowolną emotkę
+1.4 Edytuj swój komentarz z emotką i dopisz słowo ,,zrobione”
+1.5 Oznacz swoją wiadomość na slacku  jako ,,nieprzeczytaną” 
+Slack
+Slack is your digital HQ
+Slack is a new way to communicate with your team. It’s faster, better organized, and more secure than email.
+Slack is your digital HQ
+YouTube
+Kevin Stratvert
+How to use Slack
+Obraz
+ZADANIE 2 Jira
+2.1 Wejdź na https://www.atlassian.com/pl/software/jira/free
+2.2 Załóż konto 
+2.3 I rób dokładnie to co robi Rafał na filmikach
+Zacznij od tego : https://www.youtube.com/watch?v=EWT_MCDo-AE
+2.4 Planuj swoją naukę i rozwiązywanie zadan w Jirze 🙂 
+ZADANIE 3 Confluence - Zrób swoje pierwsze narzędzie z tej wiedzy
+
+3.1 Rozpoznaj narzędzie Confluence https://youtu.be/ju-ExwgLQ1o4.2 
+3.2 przeczytaj jak dobrze zgłaszać błędy.  https://www.chiark.greenend.org.uk/~sgtatham/bugs-pl.html
+3.3 stwórz przejrzystą  check liste/ notatkę o tym jak zgłaszać błędy na platformie Confluence  
+Po co? 
+Chce żebyś swobodnie czuła się z narzędziem takim jak confluence tzn. potrafiła stworzyć  w takim środowisku system do dokumentacji, tworzenia scenariuszy testowych,  używała szablonów 
+﻿
